@@ -1,4 +1,4 @@
-his is my clean Bar-Less Hyprland Configuration. It's perfect for Multitask, whitout a bar while still keeping key features accessable.It's pretty basic but good as a solid base or for people new to Hyprland.  
+This is my clean Bar-Less Hyprland Configuration. It's perfect for Multitask, whitout a bar while still keeping key features accessable.It's pretty basic but good as a solid base or for people new to Hyprland.  
 
 **Shortcuts**  
 
